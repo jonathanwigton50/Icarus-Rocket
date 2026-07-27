@@ -1,0 +1,34 @@
+# Build outputs
+build/
+dist/
+*.o
+*.hex
+*.elf
+*.obj
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / env
+.env
+*.key
+*.pem
+
+# CAD temp files
+~$*
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
