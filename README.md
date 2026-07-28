@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Icarus-Rocket
+#  Icarus-Rocket
 
 **A student-built model rocket targeting 1 km apogee with propulsive vertical landing.**
 
