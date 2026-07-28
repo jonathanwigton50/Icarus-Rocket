@@ -13,14 +13,13 @@
 
 ##  Quick Stats
 - **Target Apogee:** 1,000 m AGL
-- **Recovery Method:** Propulsive vertical landing (PID + TVC)
+- **Recovery Method:** Propulsive vertical landing (PID + TVC) using solid fuel motor
 - **Project Codename:** Icarus-Rocket
 - **Status:**  Early development
 
 ##  Mission
 Build a thrust-vectored model rocket capable of reaching 1 km altitude 
-and executing a controlled propulsive landing — a miniature analog of 
-orbital booster recovery systems.
+and executing a controlled propulsive landing.
 
 ##  Repository Structure
 - [`firmware/`](firmware/) — Flight computer embedded software
@@ -32,8 +31,8 @@ orbital booster recovery systems.
 
 ##  Current Progress
 - [x] Repository initialized
-- [ ] Mission requirements defined
-- [ ] Concept design complete
+- [x] Mission requirements defined
+- [x] Concept design complete
 - [ ] Sub-scale test flight
 - [ ] Full-scale 1 km flight with propulsive landing
 
