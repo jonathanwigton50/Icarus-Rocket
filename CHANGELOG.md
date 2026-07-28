@@ -11,6 +11,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 - Project board setup
 - Issue templates
 
-## [0.1.0] - 2025-XX-XX
+## [0.1.0] - 07/27/2026
 ### Added
 - Initial project setup
