@@ -6,7 +6,6 @@
 
 ## Avionics Bay Constraint
 - Selected sensors + battery must fit
-- Standard 38mm bay (like Featherweight): 
 - Bulkheads + couplers: 
 
 ## Outer Airframe Diameter
