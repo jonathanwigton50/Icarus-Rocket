@@ -11,8 +11,12 @@
 
 ---
 ##  Currently Working On
-- Upper stage design
-- Sizing/positioning landing leg struts for 3 m/s touchdown velocity with safety velocity of 6 m/s
+- [ ] Upper stage design 
+- [ ] Mass Budget
+- [ ] Motor Selection
+- [ ] Sensor Selection
+- [ ] Airframe sizing
+- [ ] Landing Geometry/Sizing
 
 ##  Contact
 Open to feedback and collaboration: jonathanwigton50@gmail.com
