@@ -10,6 +10,12 @@
 </div>
 
 ---
+##  Currently Working On
+- Upper stage design
+- Sizing/positioning landing leg struts for 3 m/s touchdown velocity with safety velocity of 6 m/s
+
+##  Contact
+Open to feedback and collaboration: jonathanwigton50@gmail.com
 
 ##  Quick Targets
 - **Project Codename:** Icarus
@@ -34,7 +40,7 @@ Build a multi-stage amateur rocket with a target kilometer apogee that is capabl
 
 ##  Current Progress
 - [x] Repository initialized
-- [ ] Mission requirements defined
+- [x] Mission requirements defined
 - [x] Upper stage concept design complete
 - [ ] Upper stage design
 - [ ] Upper stage test flight and landing using drone propulsion
