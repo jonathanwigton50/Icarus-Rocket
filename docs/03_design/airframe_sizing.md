@@ -1,20 +1,20 @@
 # Airframe Sizing
 
 ## Motor Diameter Constraint
-- Selected motor (AeroTech 75mm): 75mm body diameter
-- Motor retainer + mount: ~85mm
+- Selected motor : 
+- Motor retainer + mount: 
 
 ## Avionics Bay Constraint
 - Selected sensors + battery must fit
-- Standard 38mm bay (like Featherweight): 38mm OD
-- Bulkheads + couplers: ~45mm
+- Standard 38mm bay (like Featherweight): 
+- Bulkheads + couplers: 
 
 ## Outer Airframe Diameter
 Need to fit:
-- Motor mount (85mm OD)
-- Avionics bay (45mm OD)
-- Airbrake panels (mounted on outside)
-- Landing legs (stowed inside or mounted on outside)
+- Motor mount 
+- Avionics bay 
+- Airbrake panels 
+- Landing legs 
 
 ### Option A: 75mm airframe
 - Fits motor snugly, tight for avionics
@@ -23,7 +23,7 @@ Need to fit:
 
 ### Option B: 100mm airframe (4" standard)
 - Plenty of room for avionics + recovery
-- Landing legs deploy cleanly from outside
+- Landing legs deploy cleanly 
 - Easier to build
 
 ### Option C: 150mm airframe (6")
@@ -33,14 +33,13 @@ Need to fit:
 **Decision:** **100mm (4")** — best balance of mass, volume, and standard parts
 
 ## Airframe Length Estimate
-- Upper stage (above motor): ~600mm
-- Motor section: ~500mm  
-- Lower stage: ~400mm
-- Total: ~1500mm
-
+- Upper stage (Nose to stage 1 motor): 
+- Motor section:  
+- Lower stage: 
+- Total: 
 ## Landing Leg Geometry Constraints
 With 100mm airframe and 4 legs:
-- Stowed: legs fold into cutouts ~10mm deep on airframe
-- Deployed: leg tip extends ~300mm from centerline
-- Spread angle: 30° from vertical
-- Footprint: ~520mm diameter circle
+- Stowed: 
+- Deployed: 
+- Spread angle:
+- Footprint:
